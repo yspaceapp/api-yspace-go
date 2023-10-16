@@ -9,4 +9,6 @@ create table users (
   password text not null
 );
 
+API user POSTGRES 
+
 ```
